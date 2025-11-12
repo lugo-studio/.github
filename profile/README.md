@@ -1,3 +1,3 @@
-![Lugo Studio](https://lugo.studio/assets/images/branding/cat_pure_borderless_sha2.png)
+![Lugo Studio](https://lugo.studio/assets/logo/new.png)
 
 Organization created by GTLugo to host (supposedly) more professional projects.
